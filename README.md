@@ -17,6 +17,26 @@
   <img src="https://img.shields.io/badge/Interface-Pink_Theme-EC7EB4?style=for-the-badge" alt="Pink themed interface">
 </p>
 
+---
+
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://health-assistant-ml.streamlit.app/">
+    <img src="https://img.shields.io/badge/Launch_Live_Application-Click_Here-EC7EB4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Health Assistant ML">
+  </a>
+</p>
+
+<p align="center">
+  Try the deployed application and explore the Diabetes, Heart Disease, and Parkinson's prediction modules.
+</p>
+
+<p align="center">
+  <a href="https://health-assistant-ml.streamlit.app/">Open Health Assistant ML</a>
+</p>
+
+---
+
 <p align="center">
   <a href="#-about-the-project">About</a> •
   <a href="#-features">Features</a> •
@@ -87,6 +107,10 @@ The project combines machine learning, data handling, and interactive UI develop
 
 <p align="center">
   <em>One dashboard. Three prediction modules. A simpler way to interact with machine learning models.</em>
+</p>
+
+<p align="center">
+  <a href="https://health-assistant-ml.streamlit.app/"><strong>Try the Live Application →</strong></a>
 </p>
 
 ---
@@ -281,4 +305,7 @@ Its predictions may be inaccurate and must not be used to diagnose, prevent, or 
   <strong>Better Data · Healthier Tomorrows</strong>
   <br><br>
   Built with Python, Streamlit, and machine learning.
+  <br><br>
+  <a href="https://health-assistant-ml.streamlit.app/">Live Demo</a> ·
+  <a href="https://github.com/alina01washim-aw/health-assistant-ml">GitHub Repository</a>
 </p>
